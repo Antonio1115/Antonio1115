@@ -1,7 +1,7 @@
 ### Hello, my names Antonio! 👋
 
 I'm a Computer Science & Data Science major at SMU
-- Actively seeking software engineering, AI/ML, or data analytics internship opportunities
+- Actively seeking software engineering, AI/ML, or data analytics full time opportunities
 - How to reach me: antoniof@smu.edu
 
 ### Connect with me:
